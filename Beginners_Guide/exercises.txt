@@ -1,0 +1,6 @@
+find area of the square (side*side) where side=12.5 
+find area of the circle (pi * r * r , r = diameter/2) where diameter = 15.9 and pi = 3.14
+Get a name and print if his/her name is longer or shorter than you
+Choose a prime number greater than 10 and print 10 multiples of it.
+print all the odd multiples of 7 below 100
+create a list of names and find a name which is longer than yours
