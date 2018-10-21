@@ -1,0 +1,6 @@
+=>Find the IPL score 
+=>2G Hotsport use also
+=>in terminal
+
+#change the below values in ipl.py url value
+change 16395=>?, dd=>?, kxip=>?, 7th=>? ,2016=>?
